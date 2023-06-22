@@ -43,9 +43,8 @@ def auto_screenshot():
     # input the target email address
     # ex: newmail.To='bangabngabng@hanyang.ac.kr'
     newmail.To=''
-    
+
     newmail.Body= 'Hello, this is a test email to send autoScreenshot.'
-    #attach = "C:\\Users\\Stefano Bang\\Desktop\\Workplace\\python\\screenshots\\autoScreenshot.png"
     raw_attach = os.getcwd()+"/screenshots/autoScreenshot.png"                              
     print(raw_attach)
     attach =  f'{raw_attach}'
