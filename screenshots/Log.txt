@@ -10,3 +10,5 @@ Begin to take screenshot------------2023-03-31 16:54:50.215383
 Screenshot finished----------------------------------------
 Begin to take screenshot------------2023-03-31 16:55:08.448564
 Screenshot finished----------------------------------------
+Begin to take screenshot------------2023-06-22 13:54:48.722120
+Screenshot finished----------------------------------------
